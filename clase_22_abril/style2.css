@@ -8,20 +8,20 @@
 }
 
 #columna {
-    background-color: aqua;
+    background-color: black;
     
 }
 
 #uno{
-    background-color: blue;
+    background-color: black;
     
 }
 
-#dos{background-color: aqua;
+#dos{background-color: white;
     
 }
 
-#tres{background-color: beige;
+#tres{background-color: black;
    
 }
 #noticias{
@@ -29,15 +29,30 @@
 }
 
 #redes{
-    background-color: blueviolet;
+    background-color: black;
 }
 
 #barramenu {
-    background-color: burlywood;
+    background-color: black;
 }
 #titulo {
-    background-color: yellow;
+    background-color: black;
+
 }
 
 #imagenoxo{
 image-rendering: auto;}
+
+#titulofoto{
+    max-width:200px;
+    max-height: 150px;
+}
+
+#h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+#boton { 
+    border-style:dashed ;
+}
