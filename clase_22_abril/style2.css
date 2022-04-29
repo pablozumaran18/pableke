@@ -1,8 +1,17 @@
-/* div {
-    border: 1px solid;
-    border-color: black;
-} */
+#edad{
+    background-color: black;
+    color: white;
+}
 
+#aviso{
+    background-color: black;
+    color: white;
+}
+
+#aviso_{
+    background-color: black;
+    color: white;
+}
 #container2{
     margin-block-start: 30px;
 }
