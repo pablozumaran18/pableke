@@ -1,10 +1,8 @@
 #containers{
     border-style: solid;
+    color: black;
 }
 
-#formulario{
-    border-style: solid;
-}
 
 #row{
     background-color: aqua;
@@ -12,4 +10,32 @@
 
 #titulo{
     background-color: aquamarine;
+}
+
+#respuesta_nombre{
+    color: red;
+}
+
+#respuesta_apellido{
+    color: red;
+}
+
+#respuesta_fecha{
+    color: red;
+}
+
+#respuesta_direccion{
+    color: red;
+}
+#respuesta_ciudad{
+    color: red;
+}
+#respuesta_genero{
+    color: red;
+}
+#respuesta_correo{
+    color: red;
+}
+#respuesta_comentario{
+    color: red;
 }
